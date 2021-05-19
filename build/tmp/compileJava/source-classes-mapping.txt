@@ -1,6 +1,8 @@
-com/eutils/thismod/registry/ModBlocks.java
- com.eutils.thismod.registry.ModBlocks
 com/eutils/thismod/ThisMod.java
  com.eutils.thismod.ThisMod
+com/eutils/thismod/registry/ModBlocks.java
+ com.eutils.thismod.registry.ModBlocks
 com/eutils/thismod/registry/ModItems.java
  com.eutils.thismod.registry.ModItems
+com/eutils/thismod/registry/EmeraldFoodComponents.java
+ com.eutils.thismod.registry.EmeraldFoodComponents
