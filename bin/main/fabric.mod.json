@@ -1,0 +1,36 @@
+{
+  "schemaVersion": 1,
+  "id": "eutils",
+  "version": "${version}",
+
+  "name": "Emerald Utilities",
+  "description": "This mod make emeralds more useful in Minecraft by adding emerald tools & armors!",
+  "authors": [
+    "jlijkp64"
+  ],
+  "contact": {
+    "homepage": "",
+    "sources": ""
+  },
+
+  "license": "CC0-1.0",
+  "icon": "assets/eutils/icon.png",
+
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "com.eutils.thismod.ThisMod"
+    ]
+  },
+  "mixins": [
+  ],
+
+  "depends": {
+    "fabricloader": ">=0.7.4",
+    "fabric": "*",
+    "minecraft": "1.16.x"
+  },
+  "suggests": {
+    "another-mod": "*"
+  }
+}
